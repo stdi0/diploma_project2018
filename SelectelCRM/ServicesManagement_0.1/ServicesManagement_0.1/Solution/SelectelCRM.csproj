@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4F6078A5-D250-49D1-B891-FEDD468171D1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SelectelCRM</RootNamespace>
+    <AssemblyName>SelectelCRM</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>d:\deploy\SelectelCRM\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6DED350B56F714F8146640F82DF6797ADB428834</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Solution_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>S.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Word\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.9.11\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet, Version=2016.1.0.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106, processorArchitecture=MSIL">
+      <HintPath>..\packages\SSH.NET.2016.1.0\lib\net40\Renci.SshNet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=1.0.1812.29779, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddCity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCity.Designer.cs">
+      <DependentUpon>AddCity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddContry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddContry.Designer.cs">
+      <DependentUpon>AddContry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddManager.Designer.cs">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNotification.Designer.cs">
+      <DependentUpon>AddNotification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRequest.Designer.cs">
+      <DependentUpon>AddRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddService.Designer.cs">
+      <DependentUpon>AddService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddServiceGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddServiceGroup.Designer.cs">
+      <DependentUpon>AddServiceGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddServiceToContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddServiceToContract.Designer.cs">
+      <DependentUpon>AddServiceToContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddServiceToRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddServiceToRequest.Designer.cs">
+      <DependentUpon>AddServiceToRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization.Designer.cs">
+      <DependentUpon>Authorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckSystem.Designer.cs">
+      <DependentUpon>CheckSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clients.Designer.cs">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="EditCity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditCity.Designer.cs">
+      <DependentUpon>EditCity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditClient.Designer.cs">
+      <DependentUpon>EditClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditCountry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditCountry.Designer.cs">
+      <DependentUpon>EditCountry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditManager.Designer.cs">
+      <DependentUpon>EditManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditNotification.Designer.cs">
+      <DependentUpon>EditNotification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditRequest.Designer.cs">
+      <DependentUpon>EditRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditService.Designer.cs">
+      <DependentUpon>EditService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditServiceGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditServiceGroup.Designer.cs">
+      <DependentUpon>EditServiceGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excel.cs" />
+    <Compile Include="RequestsAndContracts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RequestsAndContracts.Designer.cs">
+      <DependentUpon>RequestsAndContracts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddClient.Designer.cs">
+      <DependentUpon>AddClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LinearRegression.cs" />
+    <Compile Include="Managers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Managers.Designer.cs">
+      <DependentUpon>Managers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notifications.Designer.cs">
+      <DependentUpon>Notifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Refs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refs.Designer.cs">
+      <DependentUpon>Refs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="servicemandbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>servicemandbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Services.Designer.cs">
+      <DependentUpon>Services.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sftp.cs" />
+    <Compile Include="Stats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stats.Designer.cs">
+      <DependentUpon>Stats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddCity.resx">
+      <DependentUpon>AddCity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddClient.resx">
+      <DependentUpon>AddClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddContry.resx">
+      <DependentUpon>AddContry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddManager.resx">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNotification.resx">
+      <DependentUpon>AddNotification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRequest.resx">
+      <DependentUpon>AddRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddService.resx">
+      <DependentUpon>AddService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddServiceGroup.resx">
+      <DependentUpon>AddServiceGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddServiceToContract.resx">
+      <DependentUpon>AddServiceToContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddServiceToRequest.resx">
+      <DependentUpon>AddServiceToRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authorization.resx">
+      <DependentUpon>Authorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckSystem.resx">
+      <DependentUpon>CheckSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clients.resx">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditCity.resx">
+      <DependentUpon>EditCity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditClient.resx">
+      <DependentUpon>EditClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditCountry.resx">
+      <DependentUpon>EditCountry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditManager.resx">
+      <DependentUpon>EditManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditNotification.resx">
+      <DependentUpon>EditNotification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditRequest.resx">
+      <DependentUpon>EditRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditService.resx">
+      <DependentUpon>EditService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditServiceGroup.resx">
+      <DependentUpon>EditServiceGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RequestsAndContracts.resx">
+      <DependentUpon>RequestsAndContracts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Managers.resx">
+      <DependentUpon>Managers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notifications.resx">
+      <DependentUpon>Notifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Refs.resx">
+      <DependentUpon>Refs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Services.resx">
+      <DependentUpon>Services.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stats.resx">
+      <DependentUpon>Stats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <Content Include="attach.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="contract.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="CrystalReport1.mht" />
+    <Content Include="invoice.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="servicemandbDataSet.xsc">
+      <DependentUpon>servicemandbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="servicemandbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>servicemandbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="servicemandbDataSet.xss">
+      <DependentUpon>servicemandbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Solution_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="S.ico" />
+    <Content Include="servicemandb.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль Microsoft .NET Framework 4 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

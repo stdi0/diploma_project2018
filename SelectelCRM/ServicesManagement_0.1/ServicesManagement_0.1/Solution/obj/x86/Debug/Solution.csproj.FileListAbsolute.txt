@@ -1,0 +1,170 @@
+c:\users\татьяна\documents\visual studio 2010\Projects\ServicesManagement\Solution\bin\Debug\servicemandb.accdb
+c:\users\татьяна\documents\visual studio 2010\Projects\ServicesManagement\Solution\bin\Debug\Solution.exe.config
+c:\users\татьяна\documents\visual studio 2010\Projects\ServicesManagement\Solution\bin\Debug\Solution.exe
+c:\users\татьяна\documents\visual studio 2010\Projects\ServicesManagement\Solution\bin\Debug\Solution.pdb
+c:\users\татьяна\documents\visual studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Form1.resources
+c:\users\татьяна\documents\visual studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Properties.Resources.resources
+c:\users\татьяна\documents\visual studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.csproj.GenerateResource.Cache
+c:\users\татьяна\documents\visual studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.exe
+c:\users\татьяна\documents\visual studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.pdb
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddRequest.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddClient.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddServiceToRequest.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddServiceToContract.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Clients.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Managers.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Services.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\bin\Debug\Solution.exe.config
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.exe
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.pdb
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddClient.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddRequest.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddServiceToContract.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddServiceToRequest.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Clients.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Form1.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Managers.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Properties.Resources.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Services.resources
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.csproj.GenerateResource.Cache
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\bin\Debug\servicemandb.accdb
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\bin\Debug\Solution.exe
+C:\Users\denis.kozlov\Downloads\Projects\ServicesManagement\Solution\bin\Debug\Solution.pdb
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\bin\Debug\Solution.exe.config
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.exe
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.pdb
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\bin\Debug\servicemandb.accdb
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\bin\Debug\Solution.exe
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\bin\Debug\Solution.pdb
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddClient.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddRequest.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddServiceToContract.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddServiceToRequest.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Clients.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Form1.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Managers.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Properties.Resources.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.Services.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.csproj.GenerateResource.Cache
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.EditClient.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddManager.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.EditManager.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.AddService.resources
+C:\Users\denis.kozlov\Documents\Visual Studio 2010\Projects\ServicesManagement\Solution\obj\x86\Debug\Solution.EditService.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\bin\Debug\Solution.exe.config
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.exe
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.pdb
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\bin\Debug\servicemandb.accdb
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\bin\Debug\Solution.exe
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\bin\Debug\Solution.pdb
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddClient.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddManager.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddRequest.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddService.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddServiceToContract.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddServiceToRequest.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Clients.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditClient.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditManager.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditService.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Form1.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Managers.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Properties.Resources.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Services.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.csproj.GenerateResource.Cache
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddServiceGroup.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditServiceGroup.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Refs.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddContry.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditCountry.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddCity.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditCity.resources
+C:\Users\Татьяна\Documents\Visual Studio 2010\Projects\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditRequest.resources
+D:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\bin\Debug\Solution.exe.config
+D:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.exe
+D:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.pdb
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\bin\Debug\Solution.exe.config
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.exe
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.pdb
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\bin\Debug\servicemandb.accdb
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\bin\Debug\Solution.exe
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\bin\Debug\Solution.pdb
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.csprojResolveAssemblyReference.cache
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddCity.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddClient.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddContry.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddManager.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddRequest.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddService.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddServiceGroup.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddServiceToContract.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddServiceToRequest.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Clients.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditCity.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditClient.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditCountry.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditManager.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditRequest.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditService.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditServiceGroup.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Form1.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Managers.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Properties.Resources.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Refs.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Services.resources
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.csproj.GenerateResource.Cache
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\bin\Debug\MySql.Data.dll
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\bin\Debug\MySql.Data.xml
+J:\final\Козлов Д.Ю. 4УП1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Stats.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\Solution.exe.config
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.exe
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.pdb
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\servicemandb.accdb
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\Solution.exe
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\Solution.pdb
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\MySql.Data.dll
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\MySql.Data.xml
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddCity.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddClient.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddContry.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddManager.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddRequest.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddService.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddServiceGroup.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddServiceToContract.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddServiceToRequest.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Clients.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditCity.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditClient.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditCountry.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditManager.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditRequest.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditService.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditServiceGroup.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Form1.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Managers.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Properties.Resources.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Refs.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Services.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Stats.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.csproj.GenerateResource.Cache
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Test.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\Renci.SshNet.dll
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\Renci.SshNet.xml
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Notifications.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.AddNotification.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.EditNotification.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.Authorization.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.CheckSystem.resources
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\Solution.exe.manifest
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\Solution.application
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.exe.manifest
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\obj\x86\Debug\Solution.application
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\attach.xlsx
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\contract.docx
+C:\Users\Татьяна\Downloads\ServicesManagement_0.1\ServicesManagement_0.1\Solution\bin\Debug\invoice.xlsx
